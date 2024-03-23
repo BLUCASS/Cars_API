@@ -15,6 +15,7 @@
 - [Python3](https://docs.python.org/3/)
 - [SQLAlchemy](https://www.sqlalchemy.org/library.html)
 - [VisualCode](https://code.visualstudio.com/docs)
+- [Postman](https://learning.postman.com/docs/introduction/overview/)
 
 ### 🚀 GETTING STARTED
 1. Clone the repository:
